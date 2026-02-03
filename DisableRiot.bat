@@ -29,5 +29,5 @@ sc stop vgk
 echo.
 echo Done!
 echo.
-pause>nul
 exit
+
