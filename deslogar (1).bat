@@ -45,4 +45,3 @@ rmdir /s /q "C:\Windows\Prefetch"
 mkdir C:\Windows\Prefetch
 reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography" /v MachineGuid /f
 )
-msg * Sucesso!
